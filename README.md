@@ -53,5 +53,5 @@ Interesado en **Open Source, APIs y proyectos de IA**.
 ---
 
 ### 📫 Contacto
-- [LinkedIn]([https://www.linkedin.com/in/joaquin-cg/](https://www.linkedin.com/in/joaqu%C3%ADn-caravaca-garc%C3%ADa-56b77937b/))  
+- [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-caravaca-garc%C3%ADa-56b77937b/)  
 - Email: joaquincaravacagracia200@gmail.com
