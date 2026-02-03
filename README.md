@@ -28,13 +28,6 @@ Interesado en **Open Source, APIs y proyectos de IA**.
 
 ---
 
-### 🚀 Proyectos destacados
-- **Mi Portfolio** – Portfolio personal hecho con React y Tailwind. [Demo](#) | [Repo](#)  
-- **API de Tareas** – CRUD con PHP, Laravel y MySQL. [Repo](#)  
-- **ChatBot Voiceflow** – Bot interactivo con integración a API REST. [Demo](#) | [Repo](#)  
-
----
-
 ### ⚙️ GitHub Analytics
 
 <p align="center">
