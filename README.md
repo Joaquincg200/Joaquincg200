@@ -41,6 +41,15 @@ Interesado en **Open Source, APIs y proyectos de IA**.
 
 ---
 
+### 🚀 Proyectos destacados
+
+- **CreArte** – Plataforma web full-stack con frontend y backend integrados.  
+  🔗 **Repositorio:** [CreArte](https://github.com/Joaquincg200/CreArte)  
+  🛠 **Tecnologías:** React, JavaScript, Java, Spring Boot, Voiceflow, HTML, CSS, Bootstrap, MySQL  
+  📌 Proyecto listo para ejecutarse localmente, demostrando integración full-stack y diseño responsive.
+
+---
+
 ### 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-caravaca-garc%C3%ADa-56b77937b/)  
 - Email: joaquincaravacagracia200@gmail.com
